@@ -20,9 +20,6 @@ Action	Description
 🔌 Shuts down	Automatically when finished
 Hardware Requirements
 Item	Status
-https://img.shields.io/badge/Raspberry%2520Pi-3B%252B-red	Required
-https://img.shields.io/badge/MicroSD-8GB+-blue	Required
-https://img.shields.io/badge/Power%2520Supply-5V%25202.5A-orange	Required
 💾 Untrusted USB (source)	Required
 💾 Trusted USB (destination - FAT32)	Required
 🎧 Headphones/speaker	Optional
