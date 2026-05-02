@@ -1,3 +1,4 @@
+![CIRCLean Version](https://img.shields.io/badge/CIRCLean-v3.0.0-blue)
 Overview
 🛡️ Turn your Raspberry Pi into a USB bodyguard
 
