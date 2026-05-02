@@ -1,7 +1,5 @@
 ![CIRCLean Version](https://img.shields.io/badge/CIRCLean-v3.0.0-blue)
-
-<!-- BADGES START -->
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-3B%2B-A22846?logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/CIRCLean-v3.0.0-blue" alt="CIRCLean">
   <img src="https://img.shields.io/badge/License-GPL%203.0-green" alt="License">
@@ -12,8 +10,6 @@
   <img src="https://img.shields.io/badge/Flashing-Rufus-orange?logo=windows" alt="Flashing Tool">
   <img src="https://img.shields.io/badge/Made%20with-Raspberry%20Pi-red" alt="Made with">
   <br>
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-purple" alt="Open Source">
-  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs Welcome">
   <img src="https://img.shields.io/badge/Version-1.0.0-informational" alt="Version">
   <img src="https://img.shields.io/badge/Last%20Updated-2026-blue" alt="Last Updated">
   <img src="https://img.shields.io/badge/Flashed%20with-Rufus-success?logo=windows" alt="Flashed with">
